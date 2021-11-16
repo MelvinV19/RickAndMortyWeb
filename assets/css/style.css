@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/fondo.jpg");
+  background-image: url("../assets/images/fondo.jpg");
   background-repeat: inherit;
 
   font-family: "Creepster", cursive;
@@ -14,7 +14,7 @@ small {
   margin: 15px 30px 0px 30px;
   border-radius: 10px;
 
-  background: url("../images/banner.png");
+  background: url("../assets/images/banner.png");
   background-repeat: no-repeat;
 
   height: 340px;
