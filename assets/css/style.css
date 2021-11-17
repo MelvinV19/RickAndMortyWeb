@@ -2,6 +2,13 @@ body {
 
   font-family: "Creepster", cursive;
   text-shadow: 3px 3px 4px rgba(13, 250, 25, 0.986);
+  background: repeating-linear-gradient(
+        45deg,
+        #FF5A5F,
+        #FF5A5F 150px,
+        #011936 150px,
+        #011936 300px
+    );
 }
 
 small {
