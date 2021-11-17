@@ -1,6 +1,4 @@
 body {
-  background-image: url("./../fondo.jpg");
-  background-repeat: inherit;
 
   font-family: "Creepster", cursive;
   text-shadow: 3px 3px 4px rgba(13, 250, 25, 0.986);
@@ -11,14 +9,9 @@ small {
 }
 
 .jumbotron {
-
-  
   margin: 15px 30px 0px 30px;
   border-radius: 10px;
-
-  background: url("./../banner.png");
-  background-repeat: no-repeat;
-
+  color: #fff;
   height: 340px;
   background-size: contain;
   background-position: center;
